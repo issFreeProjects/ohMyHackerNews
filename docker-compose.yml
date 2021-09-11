@@ -10,12 +10,12 @@ services:
     restart: unless-stopped
 
   backendhanews:
-    build: ./backend
+    build: ./ohMyHackerNews-backend
     ports: 
       - 5000:5000
 
   frontendhanews:
-    build: ./frontend
+    build: ./ohMyHackerNews-frontend
     ports: 
       - 8080:8080
       - 80:80
