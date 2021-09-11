@@ -1,0 +1,6 @@
+[submodule "ohMyHackerNews-backend"]
+	path = ohMyHackerNews-backend
+	url = https://github.com/issFreeProjects/ohMyHackerNews-backend.git
+[submodule "ohMyHackerNews-frontend"]
+	path = ohMyHackerNews-frontend
+	url = https://github.com/issFreeProjects/ohMyHackerNews-frontend.git
